@@ -5,7 +5,7 @@ Whether you are starting a new SaaS product, improving an existing system, or ne
 
 💼 What I Can Help You With:
 - ✅ Custom PHP & Laravel development (REST APIs, multi-tenant SaaS, backend architecture)
-- ⚛️ Frontend development with React.js, Next.js, and Vue.js
+- ⚛️ Frontend development with React.js, Next.js, Angular, and Vue.js
 - 🚀 Speed and performance optimization, scalable structure, CI/CD setup
 - 💳 Integrations with Stripe, PayPal, CRM systems, and third-party APIs
 - 🔐 Automated testing (PHPUnit, Pest) and best practices for security and reliability
