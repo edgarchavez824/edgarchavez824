@@ -1,25 +1,22 @@
-🔥 Full Stack Web Developer | PHP, Laravel, React, Next.js Expert 🔥
+🔥 Full Stack Developer | Web, Mobile, Blockchain & AI Integration 🔥
 
-I’m a Full Stack Web Developer with deep expertise in PHP, Laravel, and modern JavaScript frameworks like React, Next.js, Angular, and Vue. I also bring strong backend experience with Node.js and Python, enabling me to deliver versatile and high-performance web solutions across tech stacks.
+I’m a Full Stack Developer passionate about building reliable, scalable, and future-ready applications. I’ve worked across web, mobile, and cutting-edge technologies like blockchain and AI, helping startups and established teams turn complex ideas into powerful digital products.
 
-Whether you're launching a new SaaS product, enhancing an existing system, or need a dependable developer to accelerate progress, I’m ready to help. My focus is on writing clean, maintainable code and building user-centric applications that scale.
+With a strong foundation in both frontend and backend development, I’m comfortable owning projects from start to finish. I focus on creating seamless user interfaces, building secure and efficient backend systems, and ensuring everything runs smoothly.
 
-💼 What I Bring to the Table
-- ✅ Custom PHP & Laravel Development — RESTful APIs, multi-tenant SaaS platforms, backend architecture
-- ⚛️ Frontend Development — React.js, Next.js, Angular, and Vue.js for responsive, modern UIs
-- 🟢 Node.js & Express.js — Scalable microservices, real-time apps, and API development
-- 🐍 Python & Django/Flask — Backend systems, automation scripts, and data-driven web applications
-- 🚀 Performance & Scalability — Architecture optimization, CI/CD setup, and cloud deployment
-- 💳 Third-Party Integrations — Stripe, PayPal, CRMs, marketing platforms, and RESTful APIs
-- 🔐 Testing & Security — Automated testing with PHPUnit/Pest, secure code practices
-- 🛠️ End-to-End Project Support — From planning and development to deployment and long-term maintenance
+🛠 What I Work With
+• Backend: PHP, Laravel, Node.js, Python, Ruby on Rails, Golang, Java, ASP.NET
+• Frontend: React, Next.js, Angular, Vue, Svelte, TypeScript, JavaScript
+• DevOps & Infra: Docker, Kubernetes, AWS, Redis, MySQL, PostgreSQL
+• Tools & Integrations: GraphQL, REST APIs, Stripe, PayPal, CI/CD pipelines, third-party services
 
-🔍 Why Clients Choose to Work With Me
-- 💡 Proven track record delivering robust full stack applications across diverse stacks
-- 🤝 Easy to work with — clear communication, timely updates, and collaborative mindset
-- 🛠️ Emphasis on long-term scalability, maintainability, and real business value
-- 🔁 Reliable partner who genuinely cares about your product’s success
+📱 What I’ve Built
+From SaaS platforms and e-commerce apps to blockchain tools and AI integrations, I’ve delivered projects that are fast, secure, and built to last. I focus on writing maintainable code, creating great user experiences, and solving real business challenges.
 
-If you're looking for a developer with solid technical skills, full stack flexibility, and a proactive approach, let’s connect. I’d love to learn more about your project and how we can bring it to life.
+✅ What You Can Expect
+• Clean, testable, and production-ready code
+• Full project support from planning through deployment
+• Clear and consistent communication
+• A proactive partner who truly cares about the success of your product
 
-Reach out today — let’s build something exceptional.
+If you're looking for someone with strong technical skills and a thoughtful, hands-on approach to development, I’d love to connect and learn more about your project. Let’s build something meaningful together.
