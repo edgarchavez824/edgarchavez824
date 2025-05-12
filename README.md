@@ -1,6 +1,7 @@
 🔥 Senior Full Stack Developer 🔥
 
 🚀 100+ successful projects delivered over 5 years
+
 🥇 Expert-Verified Talent who delivers on time and on budget
 
 In today's fast-moving world, businesses need to stay ahead. I help teams do just that by building scalable, high-performance applications that are secure, maintainable, and ready for the future.
