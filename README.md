@@ -1,4 +1,4 @@
-# 👨‍💻 Timothy Pena  
+# 👨‍💻 Edgar Chavez  
 ### 🚀 Senior Full Stack Developer | PHP | Laravel | WordPress | React | Shopify | API Integration | Cloud DevOps
 
 Welcome to my GitHub! I'm a senior full stack developer with over 7 years of hands-on experience delivering end-to-end web solutions across industries like e-commerce, SaaS, travel, and enterprise platforms. I specialize in building secure, high-performing applications using modern tools and frameworks.
