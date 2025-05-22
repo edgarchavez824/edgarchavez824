@@ -1,31 +1,61 @@
-🔥 Senior Full Stack Developer 🔥
+# 👨‍💻 Timothy Pena  
+### 🚀 Senior Full Stack Developer | PHP | Laravel | WordPress | React | Shopify | API Integration | Cloud DevOps
 
-- 🚀 100+ successful projects delivered over 5 years
-- 🥇 Expert-Verified Talent who delivers on time and on budget
+Welcome to my GitHub! I'm a senior full stack developer with over 7 years of hands-on experience delivering end-to-end web solutions across industries like e-commerce, SaaS, travel, and enterprise platforms. I specialize in building secure, high-performing applications using modern tools and frameworks.
 
-In today's fast-moving world, businesses need to stay ahead. I help teams do just that by building scalable, high-performance applications that are secure, maintainable, and ready for the future.
+---
 
-With strong skills across both frontend and backend, I take full ownership of projects from design and development to launch and optimization. Whether you need a powerful Laravel backend, a smooth React or Next.js frontend, or blockchain and AI integrations, I deliver clean, reliable solutions that drive real results.
+## 💼 About Me
 
-What I’m Great At
-- ✅ Laravel and PHP: fast APIs, SaaS platforms, multi-tenant systems
-- ✅ React and Next.js: beautiful, responsive user interfaces
-- ✅ AI and Automation: ChatGPT, smart bots, automated workflows
-- ✅ Performance: fast load times, stable systems, optimized code
-- ✅ Full-Stack Delivery: seamless frontend and backend, cloud, CI/CD
+I build scalable and maintainable software using a product-focused mindset and modern technologies. I’ve led development on custom Laravel backends, complex WordPress builds, interactive React frontends, and data-driven Shopify storefronts. I also bring strong experience in DevOps and CI/CD, working with cloud platforms to ensure seamless deployment and uptime.
 
-Tech I Use
-- Backend: Laravel, PHP, Node.js, Python, Golang, Ruby on Rails, Java, ASP.NET
-- Frontend: React, Next.js, Vue, Angular, Svelte, TypeScript
-- CMS & eCommerce: WordPress, Shopify, WooCommerce
-- Cloud & Infrastructure: AWS, Docker, Kubernetes, Redis
-- Databases: MySQL, PostgreSQL, MongoDB
-- Integrations: REST APIs, GraphQL, Stripe, PayPal, Shopify
-- Specialties: AI/ML integrations, Blockchain development
+---
 
-What You Can Expect
-- ✔️ Clean, testable, production-ready code
-- ✔️ Clear and friendly communication
-- ✔️ A reliable and proactive development partner
+## 🧰 Tech Stack & Tools
 
-Let’s connect and turn your ideas into something amazing. Message me today, and I am ready to help!
+### 🔹 Backend
+- PHP (7+ years), Laravel, Lumen, Symfony
+- Node.js, Express.js
+- MySQL, PostgreSQL, MongoDB, Redis
+- RESTful APIs, GraphQL, OAuth2
+- PHPUnit, Pest
+
+### 🔹 Frontend
+- JavaScript (ES6+), TypeScript
+- React.js, Next.js, Vue.js, Nuxt.js
+- Tailwind CSS, Bootstrap, SCSS
+- React Hooks, Redux, Context API
+- Blade, Twig, Liquid (Shopify)
+
+### 🔹 CMS & E-commerce
+- WordPress (custom themes/plugins, ACF, Gutenberg)
+- Shopify (Liquid, Polaris, Storefront API)
+- WooCommerce, Magento (basic)
+- Headless CMS: Strapi, Contentful, Sanity
+
+### 🔹 DevOps & Tools
+- Git, GitHub, Bitbucket, GitLab
+- Docker, Kubernetes (K8s), CI/CD (GitHub Actions, Jenkins, Azure DevOps)
+- AWS (EC2, S3, Route 53, Lambda), DigitalOcean, Vercel, Netlify
+- Cloudflare, NGINX, Apache
+- Postman, Swagger (OpenAPI), Insomnia
+
+---
+
+## 🌍 Projects & Contributions
+
+- 🔹 **Bespoke Laravel CRM**: Custom role-based system with reporting, queue jobs, notifications, and API endpoints.
+- 🔹 **WordPress Multisite Platform**: Built a scalable marketing suite with custom Gutenberg blocks and plugin architecture.
+- 🔹 **Headless Shopify App**: React + Next.js storefront powered by Shopify Storefront API and custom middleware.
+- 🔹 **SaaS Travel Engine**: Multi-service booking system using Laravel, Vue.js, and REST APIs with CI/CD pipeline integration.
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in//)
+- 📧 Email: edgarchavez2458@gmail.com
+
+---
+
+Thanks for visiting my GitHub. I'm always open to new challenges and collaboration opportunities.
