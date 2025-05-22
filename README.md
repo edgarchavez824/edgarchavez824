@@ -36,16 +36,12 @@ I build scalable and maintainable software using a product-focused mindset and m
 - Cloudflare, NGINX, Apache
 - Postman, Swagger (OpenAPI), Insomnia
 
----
-
 ## 🌍 Projects & Contributions
 
 - 🔹 **Bespoke Laravel CRM**: Custom role-based system with reporting, queue jobs, notifications, and API endpoints.
 - 🔹 **WordPress Multisite Platform**: Built a scalable marketing suite with custom Gutenberg blocks and plugin architecture.
 - 🔹 **Headless Shopify App**: React + Next.js storefront powered by Shopify Storefront API and custom middleware.
 - 🔹 **SaaS Travel Engine**: Multi-service booking system using Laravel, Vue.js, and REST APIs with CI/CD pipeline integration.
-
----
 
 ## 📫 Let's Connect
 
