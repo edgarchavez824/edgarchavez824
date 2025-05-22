@@ -3,13 +3,9 @@
 
 Welcome to my GitHub! I'm a senior full stack developer with over 7 years of hands-on experience delivering end-to-end web solutions across industries like e-commerce, SaaS, travel, and enterprise platforms. I specialize in building secure, high-performing applications using modern tools and frameworks.
 
----
-
 ## 💼 About Me
 
 I build scalable and maintainable software using a product-focused mindset and modern technologies. I’ve led development on custom Laravel backends, complex WordPress builds, interactive React frontends, and data-driven Shopify storefronts. I also bring strong experience in DevOps and CI/CD, working with cloud platforms to ensure seamless deployment and uptime.
-
----
 
 ## 🧰 Tech Stack & Tools
 
